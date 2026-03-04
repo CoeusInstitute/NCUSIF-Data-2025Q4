@@ -1,0 +1,5 @@
+period,credit_unions,members,total_assets_usd,total_loans_usd,shares_deposits_usd,net_worth_ratio,delinquency_60plus,net_charge_off_rate,data_source
+Q4 2024,4530,,2310000000000.0,1650000000000,,,,,NCUA / TruStage
+Q1 2025,4504,,,1668400000000,,,,,NCUA / TruStage
+Q2 2025,4488,141100000.0,2370000000000.0,1670000000000,1840000000000.0,0.1063,0.0096,0.0096,NCUA / TruStage
+Q3 2025,4460,141000000.0,2400000000000.0,1680000000000,1880000000000.0,,,,NCUA / TruStage
